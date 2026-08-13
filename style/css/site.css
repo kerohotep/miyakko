@@ -1,0 +1,28 @@
+html,#copyright{
+	margin:0;
+    padding:0;
+}
+body{
+
+	height:auto;	background:linear-gradient( rgba(0, 0, 0, 0.64), rgba(0, 0, 0, 0.64) ), url(/style/image/taihei-moon-toro.jpg); background-repeat: repeat;
+}
+
+body>* {
+	display:table;
+	margin:0 auto;
+	max-width:45rem;
+}
+footer{
+margin-bottom: var(--pico-block-spacing-vertical);
+  padding: var(--pico-block-spacing-vertical) var(--pico-block-spacing-horizontal);
+  border-radius: var(--pico-border-radius);
+  background: var(--pico-card-background-color);
+  box-shadow: var(--pico-card-box-shadow);
+}
+#title{
+    background:#CCC6B4;
+	color:#181c25;
+	padding: 40px;
+		  box-shadow: var(--pico-card-box-shadow);
+border-radius: var(--pico-border-radius);
+}
