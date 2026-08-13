@@ -4,7 +4,7 @@ html,#copyright{
 }
 body{
 
-	height:auto;	background:linear-gradient( rgba(0, 0, 0, 0.64), rgba(0, 0, 0, 0.64) ), url(/style/image/taihei-moon-toro.jpg); background-repeat: repeat;
+	height:auto;	background:linear-gradient( rgba(0, 0, 0, 0.64), rgba(0, 0, 0, 0.64) ), url(https://kerohotep.github.io/miyakko/style/image/taihei-moon-toro.jpg); background-repeat: repeat;
 }
 
 body>* {
