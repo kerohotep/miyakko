@@ -26,3 +26,35 @@ margin-bottom: var(--pico-block-spacing-vertical);
 		  box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
 }
+/* Hide the default marker */
+details > summary {
+	list-style: none;
+	cursor: pointer;
+	position: relative;
+	padding-right: 20px; /* Space for icon */
+}
+
+/* Remove marker in Webkit browsers (Chrome/Safari) */
+details > summary::-webkit-details-marker {
+	display: none;
+}
+
+/* Add a custom icon using pseudo-element */
+details > summary::after {
+	content: '+';
+	position: absolute;
+	right: 0;
+	font-weight: bold;
+	transition: transform 0.2s ease;
+}
+
+/* Rotate icon when open */
+details[open] > summary::after {
+	content: '−'; /* Or rotate a chevron */
+	transform: rotate(45deg); /* If using a square for + */
+}
+
+/* Smooth transition for content (optional, requires JS for perfect animation) */
+details {
+	transition: all 0.3s ease-in-out;
+}
