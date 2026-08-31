@@ -1,6 +1,6 @@
 html,#copyright{
 	margin:0;
-    padding:0;
+	padding:0;
 }
 body{
 
@@ -13,17 +13,17 @@ body>* {
 	max-width:45rem;
 }
 footer,menu{
-margin-bottom: var(--pico-block-spacing-vertical);
-  padding: var(--pico-block-spacing-vertical) var(--pico-block-spacing-horizontal);
-  border-radius: var(--pico-border-radius);
-  background: var(--pico-card-background-color);
-  box-shadow: var(--pico-card-box-shadow);
+	margin-bottom: var(--pico-block-spacing-vertical);
+	padding: var(--pico-block-spacing-vertical) var(--pico-block-spacing-horizontal);
+	border-radius: var(--pico-border-radius);
+	background: var(--pico-card-background-color);
+	box-shadow: var(--pico-card-box-shadow);
 }
 #title{
-    background:#CCC6B4;
-	color:#181c25;
-	padding: 40px;
-		  box-shadow: var(--pico-card-box-shadow);
+background:#CCC6B4;
+color:#181c25;
+padding: 40px;
+box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
 }
 /* Hide the default marker */
