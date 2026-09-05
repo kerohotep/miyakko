@@ -29,7 +29,7 @@ border-radius: var(--pico-border-radius);
 width:1rem;
 }
 #title{display:none;}
-h1{display:block;}
+h1{display:block;width:70vw;}
 details{
 margin-left:-20vw;
 	margin-top:-6rem;
