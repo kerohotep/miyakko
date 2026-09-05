@@ -12,7 +12,7 @@ body>* {
 	margin:0 auto;
 	max-width:45rem;
 }
-footer,menu,top-about{
+footer,menu,#top-about{
 	margin-bottom: var(--pico-block-spacing-vertical);
 	padding: var(--pico-block-spacing-vertical) var(--pico-block-spacing-horizontal);
 	border-radius: var(--pico-border-radius);
