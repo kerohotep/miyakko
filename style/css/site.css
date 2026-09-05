@@ -27,20 +27,20 @@ box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
 }
 
-h1{min-width:70vw;margin-top:7rem;}
+h1{min-width:70vw;}
 menu{
 	width:5rem;
 	overflow: hidden;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-right:2rem;}
+right:.8rem;}
 /* Hide the default marker */
 details > summary {
 	list-style: none;
 	cursor: pointer;
 	position: relative;
 	padding-right: 20px; /* Space for icon */
-	width:70%;
+	width:70vw;
 }
 
 /* Remove marker in Webkit browsers (Chrome/Safari) */
