@@ -28,7 +28,7 @@ border-radius: var(--pico-border-radius);
 }#summary{
 width:1rem;
 }
-#title{display:none;}
+
 h1{display:block!important;width:70vw;}
 details{
 margin-left:-20vw;
