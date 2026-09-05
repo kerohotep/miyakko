@@ -29,11 +29,11 @@ border-radius: var(--pico-border-radius);
 
 h1{min-width:70vw;margin-top:3rem;}
 menu{
-	width:3rem;
+	width:5rem;
 	overflow: hidden;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-}
+left:0;}
 /* Hide the default marker */
 details > summary {
 	list-style: none;
