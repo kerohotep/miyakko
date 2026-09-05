@@ -41,8 +41,8 @@ details > summary {
 	position: relative;
 	padding-right: 20px; /* Space for icon */
 }
-details>div{
-    width:70rem;
+details div{
+    width:70rem!important;
 }
 
 /* Remove marker in Webkit browsers (Chrome/Safari) */
