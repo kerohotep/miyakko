@@ -29,11 +29,11 @@ border-radius: var(--pico-border-radius);
 width:1rem;
 }
 
-h1{display:block!important;width:70vw;}
+h1{width:70vw;}
 details{
 margin-left:-20vw;
 	margin-top:-6rem;
-	width:100vw;
+	width:80vw;
 }
 /* Hide the default marker */
 details > summary {
