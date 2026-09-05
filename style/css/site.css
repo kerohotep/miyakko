@@ -39,6 +39,7 @@ details > summary {
 	cursor: pointer;
 	position: relative;
 	padding-right: 20px; /* Space for icon */
+	font-size:4rem;
 }
 details div{
     min-width:70vw!important;
