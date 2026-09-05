@@ -46,7 +46,7 @@ details div{
     min-width:70vw!important;
 	margin-left:-60vw;
 }
-menu details summary[role=button]:not(.outline)::after{
+summary::after{
 	display:none;
 }
 
