@@ -27,9 +27,9 @@ box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
 }
 
-h1{width:70vw;}
+h1{width:70%;}
 details{
-	width:80vw;
+	width:80%;
 }
 /* Hide the default marker */
 details > summary {
