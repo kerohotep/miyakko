@@ -41,8 +41,8 @@ details > summary {
 	padding-right: 20px; /* Space for icon */
 }
 details div{
-    width:70vw!important;
-	margin-right:-60vw;
+    min-width:70vw!important;
+	margin-left:-60vw;
 }
 
 /* Remove marker in Webkit browsers (Chrome/Safari) */
