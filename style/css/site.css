@@ -41,7 +41,7 @@ details > summary {
 	position: relative;
 	padding-right: 20px; /* Space for icon */
 }
-details{
+details>div{
     width:70rem;
 }
 
