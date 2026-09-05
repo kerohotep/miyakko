@@ -25,7 +25,9 @@ color:#181c25;
 padding: 40px;
 box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
-}
+}#title{
+   width:100%;
+display:flex;}
 /* Hide the default marker */
 details > summary {
 	list-style: none;
