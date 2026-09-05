@@ -47,7 +47,7 @@ details div{
 	margin-left:-60vw;
 }
 summary::after{
-	display:none;
+	display:none!important;
 }
 
 /* Remove marker in Webkit browsers (Chrome/Safari) */
