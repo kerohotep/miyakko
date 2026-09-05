@@ -28,6 +28,9 @@ border-radius: var(--pico-border-radius);
 }#title{
    width:100%;
 display:flex;}
+summary{
+margin-right:-30vw;
+}
 /* Hide the default marker */
 details > summary {
 	list-style: none;
