@@ -25,9 +25,11 @@ color:#181c25;
 padding: 40px;
 box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
-}#title,summary{
+}#summary{
 width:1rem;
-display:flex;}
+}
+#title{display:none;}
+h1{display:block;}
 details{
 margin-left:-30vw;
 	width:100vw;
