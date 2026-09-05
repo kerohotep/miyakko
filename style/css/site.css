@@ -19,7 +19,7 @@ footer,menu{
 	background: var(--pico-card-background-color);
 	box-shadow: var(--pico-card-box-shadow);
 }
-#title{
+header{
 background:#CCC6B4;
 color:#181c25;
 padding: 40px;
