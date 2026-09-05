@@ -32,7 +32,7 @@ menu{
 	width:5rem;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-right:.8rem;margin-too:2rem;}
+right:.8rem;}
 /* Hide the default marker */
 details > summary {
 	list-style: none;
@@ -43,6 +43,7 @@ details > summary {
 	margin:.4rem;
 }
 details div{
+	margin-top:2rem;
     min-width:70vw!important;
 	margin-left:-60vw;
 }
