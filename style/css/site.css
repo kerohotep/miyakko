@@ -31,8 +31,7 @@ width:1rem;
 
 h1{width:70vw;}
 details{
-margin-left:-20vw;
-	margin-top:-6rem;
+	margin-bottom:-6rem;
 	width:80vw;
 }
 /* Hide the default marker */
