@@ -30,7 +30,6 @@ border-radius: var(--pico-border-radius);
 h1{min-width:70vw;}
 menu{
 	width:5rem;
-	overflow: hidden;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
 right:.8rem;}
@@ -42,7 +41,8 @@ details > summary {
 	padding-right: 20px; /* Space for icon */
 }
 details div{
-    width:70rem!important;
+    width:70vw!important;
+	margin-right:-6,0vw;
 }
 
 /* Remove marker in Webkit browsers (Chrome/Safari) */
