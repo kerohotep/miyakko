@@ -25,9 +25,9 @@ color:#181c25;
 padding: 40px;
 box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
-}#title,summary{
+}#title{
    width:100%;
-display:flex;}
+display:flex;}summary{width:1rem;}
 details{
 margin-left:-30vw;
 	width:100vw;
