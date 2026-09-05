@@ -31,7 +31,8 @@ width:1rem;
 #title{display:none;}
 h1{display:block;}
 details{
-margin-left:-30vw;
+margin-left:-20vw;
+	margin-top:-6rem;
 	width:100vw;
 }
 /* Hide the default marker */
