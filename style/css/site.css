@@ -40,7 +40,9 @@ details > summary {
 	cursor: pointer;
 	position: relative;
 	padding-right: 20px; /* Space for icon */
-	width:70vw;
+}
+details{
+    width:70rem;
 }
 
 /* Remove marker in Webkit browsers (Chrome/Safari) */
