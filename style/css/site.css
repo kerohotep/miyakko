@@ -27,9 +27,9 @@ box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
 }
 
-h1{min-width:70vw;}
+h1{min-width:70vw;margin-top:3rem;}
 menu{
-	width:80%;
+	width:3rem;
 	overflow: hidden;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
