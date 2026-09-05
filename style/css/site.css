@@ -27,7 +27,7 @@ box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
 }
 
-h1{width:70%;}
+h1{min-width:70vw;}
 details{
 	width:80%;
 }
