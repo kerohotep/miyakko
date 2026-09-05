@@ -46,6 +46,9 @@ details div{
     min-width:70vw!important;
 	margin-left:-60vw;
 }
+menu details summary[role=button]:not(.outline)::after{
+	display:none;
+}
 
 /* Remove marker in Webkit browsers (Chrome/Safari) */
 details > summary::-webkit-details-marker {
