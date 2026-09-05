@@ -32,7 +32,7 @@ menu{
 	width:5rem;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-right:.8rem;}
+right:.8rem;margin-too:2rem;}
 /* Hide the default marker */
 details > summary {
 	list-style: none;
