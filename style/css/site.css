@@ -48,8 +48,8 @@ details > summary {
 	margin:0;
 }
 details div{
-    min-width:70vw!important;
-	margin-left:-60vw;
+	min-width:13rem;
+	margin-left:-13rem;
 }
 summary::after{
 	display:none!important;
