@@ -79,4 +79,5 @@ details[open] > summary::after {
 details {
 	transition: all 0.3s ease-in-out;
 	margin:0!important;
+	height:1.2rem;
 }
