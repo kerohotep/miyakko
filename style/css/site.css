@@ -50,6 +50,7 @@ details > summary {
 details div{
 	min-width:13rem;
 	margin-left:-13rem;
+	padding: .2rem;
 }
 summary::after{
 	display:none!important;
