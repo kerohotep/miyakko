@@ -36,7 +36,7 @@ h1{width:calc(90vw - 7rem);margin-bottom:2rem;}
 menu{
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-right:.8rem;padding:.8rem;}
+right:.8rem;padding:.4rem;}
 /* Hide the default marker */
 details > summary {
 	list-style: none;
@@ -45,6 +45,7 @@ details > summary {
 	padding-right: 20px; /* Space for icon */
 	font-size:3rem;
 	margin:0;
+	padding:0;
 }
 details div{
 	min-width:13rem;
