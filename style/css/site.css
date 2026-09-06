@@ -28,7 +28,7 @@ border-radius: var(--pico-border-radius);
 }
 #title{display:flex;}
 header img {margin-right: 1rem;
-	margin-bottom: 1rem;width:2rem;}
+	margin-bottom: 1rem;width:2rem!important;}
 h1{width:calc(90vw - 7rem);margin-bottom:2rem;}
 menu{
 	width:5rem;
