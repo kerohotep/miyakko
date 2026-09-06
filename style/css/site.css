@@ -27,7 +27,9 @@ box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
 }
 #title{display:flex;}
-h1{width:calc(90vw - 7rem);margin-bottom:2rem;margin-right:3rem;}
+header img {margin-right: 1rem;
+	margin-bottom: 1rem;}
+h1{width:calc(90vw - 7rem);margin-bottom:2rem;}
 menu{
 	width:5rem;
   position: fixed; /* Set the navbar to fixed position */
