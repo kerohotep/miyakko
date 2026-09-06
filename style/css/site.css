@@ -78,4 +78,5 @@ details[open] > summary::after {
 /* Smooth transition for content (optional, requires JS for perfect animation) */
 details {
 	transition: all 0.3s ease-in-out;
+	margin:0!important;
 }
