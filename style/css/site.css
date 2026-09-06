@@ -26,8 +26,8 @@ padding: 40px;
 box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
 }
-
-h1{width:calc(90vw - 7rem);margin-bottom:2rem;}
+#title{display:flex;}
+h1{width:calc(90vw - 7rem);margin-bottom:2rem;margin-right:3rem;}
 menu{
 	width:5rem;
   position: fixed; /* Set the navbar to fixed position */
