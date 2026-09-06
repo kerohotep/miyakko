@@ -34,10 +34,9 @@ header img {margin-right: 1rem;
 	margin-bottom: 1rem;width:4.5rem!important;}
 h1{width:calc(90vw - 7rem);margin-bottom:2rem;}
 menu{
-	width:5rem;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-right:.8rem;padding:.4rem;}
+right:.8rem;padding:.8rem;}
 /* Hide the default marker */
 details > summary {
 	list-style: none;
