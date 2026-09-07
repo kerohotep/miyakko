@@ -29,7 +29,7 @@ padding: 40px;
 box-shadow: var(--pico-card-box-shadow);
 border-radius: var(--pico-border-radius);
 }
-header{display:flex;}
+#top{display:flex;}
 header img {margin-right: 1rem;
 	margin-bottom: 1rem;width:4.5rem!important;}
 h1{width:calc(90vw - 7rem);margin-bottom:2rem;}
